@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# this is a project I have completed in order to understand and practise the way deep learning algorythm work
+# this is a project I have completed in order to understand and practise the way deep learning algorythm work without tuturials
 
 
 # 1) forward pass, input_size, output_size
